@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Jhon Ericsson from Lucena City<br><br>- 🔭 I’m an aspiring Software Engineer<br>- 📚 I'm currently learning Postgresql, Oracle, and RESTful APIs<br>- ⚡ In my free time I code but mostly may kabebe-time</p>
+<p align="left">I'm Jhon Ericsson from Lucena City<br><br>- 🔭 I’m an aspiring Software Engineer<br>- 📚 I'm currently learning Django and RESTful APIs<br>- ⚡ In my free time I code but mostly may kabebe-time</p>
 
 ###
 
